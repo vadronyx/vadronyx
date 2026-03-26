@@ -52,8 +52,8 @@
 ### 📈 Статистика GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВІЙ_НОВИЙ_НІК&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=uk" alt="Статистика" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВІЙ_НОВИЙ_НІК&layout=compact&theme=radical&hide_border=true&locale=uk" alt="Мови" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=vadronyx&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=uk" alt="Статистика" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadronyx&layout=compact&theme=radical&hide_border=true&locale=uk" alt="Мови" height="150">
 </p>
 
 ---
