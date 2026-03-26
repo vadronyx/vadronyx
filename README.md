@@ -49,13 +49,6 @@
 
 ---
 
-### 📈 Статистика GitHub
-
-[![Статистика](https://github-readme-stats.vercel.app/api?username=vadronyx&show_icons=true&theme=radical&hide_border=true&locale=uk)](https://github.com/vadronyx)
-[![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=vadronyx&layout=compact&theme=radical&hide_border=true&locale=uk)](https://github.com/vadronyx)
-
----
-
 ### 🤝 Зв'язок зі мною
 
 <p align="left">
