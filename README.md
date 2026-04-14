@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Привіт, я Вадим (aka vadronyx)</h1>
+  <h1>👋 Привіт, я Vadronyx</h1>
   <p><i>CyberSecurity | DevOps | System Engineer</i></p>
 
   <p>
@@ -8,7 +8,6 @@
 
   <p>
     <img src="https://img.shields.io/badge/Вік-17-0ea5e9?style=for-the-badge" alt="Age">
-    <img src="https://img.shields.io/badge/Локація-Тернопіль%2C%20УКР-ffd700?style=for-the-badge" alt="Location">
     <img src="https://img.shields.io/badge/Фокус-Sec%20%26%20Infra-9e2a2b?style=for-the-badge" alt="Focus">
   </p>
 </div>
@@ -33,7 +32,6 @@
 **Розробка та Скрипти** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 
 **Web / UI** <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
